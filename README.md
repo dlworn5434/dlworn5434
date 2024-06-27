@@ -1,6 +1,6 @@
-## Hi there 👋
+## 안녕하세요 👋
 
-저는 다양한 기술 스택을 보유하고 있으며, 견고하고 확장 가능한 애플리케이션을 만드는 데 열정을 가지고 있는 백엔드 개발자입니다. 다음은 제가 능숙하게 사용할 수 있는 기술과 도구들입니다:
+안녕하세요. 백엔드 개발자 이재구입니다.
 
 ### Back Tech Stack 🔍
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
