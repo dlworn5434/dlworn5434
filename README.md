@@ -31,7 +31,7 @@ I'm a passionate backend developer with a diverse skill set and a keen interest 
 - 👯 I’m looking to collaborate on exciting projects that make a difference.
 - 🤔 I’m looking for help with advanced cloud solutions and microservices architecture.
 - 💬 Ask me about backend development, best coding practices, and any of the technologies I use.
-- 📫 How to reach me: [Your Email]
+- 📫 How to reach me: [dlworn0216@gmail.com]
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving complex problems and automating tasks to make life easier.
 
