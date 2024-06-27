@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a passionate backend developer with a diverse skill set and a keen interest in creating robust and scalable applications. Here are some of the technologies and tools I excel in:
+저는 다양한 기술 스택을 보유하고 있으며, 견고하고 확장 가능한 애플리케이션을 만드는 데 열정을 가지고 있는 백엔드 개발자입니다. 다음은 제가 능숙하게 사용할 수 있는 기술과 도구들입니다:
 
 ### Back Tech Stack 🔍
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -26,13 +26,13 @@ I'm a passionate backend developer with a diverse skill set and a keen interest 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### About Me
-- 🔭 I’m currently working on building efficient backend systems.
-- 🌱 I’m continuously learning and keeping up with the latest technologies.
-- 👯 I’m looking to collaborate on exciting projects that make a difference.
-- 🤔 I’m looking for help with advanced cloud solutions and microservices architecture.
-- 💬 Ask me about backend development, best coding practices, and any of the technologies I use.
-- 📫 How to reach me: [dlworn0216@gmail.com]
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love solving complex problems and automating tasks to make life easier.
+- 🔭 현재 효율적인 백엔드 시스템 구축에 몰두하고 있습니다.
+- 🌱 최신 기술들을 지속적으로 배우고 있습니다.
+- 👯 의미 있는 프로젝트에서 협업하기를 기대합니다.
+- 🤔 저는 새로운 기술들을 공부하고 있습니다.
+- 💬 백엔드 개발, 최고의 코딩 방법 및 제가 사용하는 기술들에 대해 물어보세요.
+- 📫 연락 방법: [dlworn0216@gmail.com]
+- 😄 성별: 남성
+- ⚡ 재미있는 사실: 복잡한 문제를 해결하고 작업을 자동화하는 것을 좋아합니다.
 
-Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
+제 저장소를 탐색하고 궁금한 점이나 협업 아이디어가 있다면 언제든지 연락 주세요!
