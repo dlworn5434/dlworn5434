@@ -25,14 +25,4 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### About Me
-- 🔭 현재 효율적인 백엔드 시스템 구축에 몰두하고 있습니다.
-- 🌱 최신 기술들을 지속적으로 배우고 있습니다.
-- 👯 의미 있는 프로젝트에서 협업하기를 기대합니다.
-- 🤔 고급 클라우드 솔루션 및 마이크로서비스 아키텍처에 대한 도움을 찾고 있습니다.
-- 💬 제가 사용하는 기술들에 대해 물어보세요.
-- 📫 연락 방법: [dlworn0216@gmail.com]
-- 😄 성별: 남성
-- ⚡ 재미있는 사실: 복잡한 문제를 해결하고 작업을 자동화하는 것을 좋아합니다.
 
-제 저장소를 탐색하고 궁금한 점이나 협업 아이디어가 있다면 언제든지 연락 주세요!
